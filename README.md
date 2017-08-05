@@ -1,1 +1,1 @@
-# subl-settings
+# sublime settings
